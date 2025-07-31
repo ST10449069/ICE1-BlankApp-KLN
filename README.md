@@ -4,3 +4,6 @@ Setup teps:
 I created a blank typescript template and followed the necessary steps afterward. 
 I went to App.tsx and changed the text to the text that was required to be entered. 
 I ran the app on Bluestacks and it was running successefully without errors. 
+
+
+![image alt](https://github.com/ST10449069/ICE1-BlankApp-KLN/blob/2a82bfb997547ea88bc9d2e6de56080b2ad6d588/Screenshot%202025-07-31%20185016.png)
